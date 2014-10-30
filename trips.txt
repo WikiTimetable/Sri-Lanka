@@ -1,0 +1,335 @@
+trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible
+1045,FOT2NVP,daily,Nawalapitiya,1045 to Nawalapitiya,0,,,0
+4001,FOT2PTN,daily,Paranthan,4001 to Paranthan,0,,,0
+1005,FOT2BAD,daily,Badulla,1005 to Badulla,0,,,0
+1006,BAD2MDA,daily,Maradana,1006 to Maradana,0,,,0
+1007,FOT2BAD,daily,Badulla,1007 to Badulla,0,,,0
+1008,BAD2MDA,daily,Maradana,1008 to Maradana,0,,,0
+1009,FOT2KDT,daily,Kandy,1009 to Kandy,0,,,0
+1010,KDT2PDA,daily,Peradeniya Junction,1010 to Peradeniya Junction,0,,,0
+1015,FOT2BAD,daily,Badulla,1015 to Badulla,0,,,0
+1016,BAD2MDA,daily,Maradana,1016 to Maradana,0,,,0
+1019,FOT2MTL,daily,Matale,1019 to Matale,0,,,0
+1020,KDT2MDA,daily,Maradana,1020 to Maradana,0,,,0
+1023,FOT2HTN,daily,Hatton,1023 to Hatton,0,,,0
+1024,NOA2MDA,daily,Maradana,1024 to Maradana,0,,,0
+1029,FOT2KDT,daily,Kandy,1029 to Kandy,0,,,0
+1030,KDT2MDA,daily,Maradana,1030 to Maradana,0,,,0
+1031,FOT2KDT,weekends_not_holiday,Kandy,1031 to Kandy,0,,,0
+1032,KDT2MDA,weekends_not_holiday,Maradana,1032 to Maradana,0,,,0
+1033,FOT2KDT,weekdays,Kandy,1033 to Kandy,0,,,0
+1034,KDT2MDA,satsunmon,Maradana,1034 to Maradana,0,,,0
+1035,FOT2KDT,weekdays_not_holiday,Kandy,1035 to Kandy,0,,,0
+1036,KDT2MDA,daily,Maradana,1036 to Maradana,0,,,0
+1039,FOT2KDT,daily,Kandy,1039 to Kandy,0,,,0
+1040,KDT2MDA,not_sunday_nohol,Maradana,1040 to Maradana,0,,,0
+1046,WLA2HTN,daily,Hatton,1046 to Hatton,0,,,0
+11,APT2MWH,weekdays,Medawachchiya,11 to Medawachchiya,0,,,0
+1102,NVP2KGA,daily,Kotagala,1102 to Kotagala,0,,,0
+1109,FOT2VGD,daily,Veyangoda,1109 to Veyangoda,0,,,0
+1119,APS2ALW,weekdays,Alawwa,1119 to Alawwa,0,,,0
+1120,PNL2NVP,daily,Nawalapitiya,1120 to Nawalapitiya,0,,,0
+1124,FOT2BTL,daily,Botale,1124 to Botale,0,,,0
+1125,FOT2RBK,daily,Rambukkana,1125 to Rambukkana,0,,,0
+1126,KDT2BAD,daily,Badulla,1126 to Badulla,0,,,0
+1127,MDA2WKA,daily,Walakumbura,1127 to Walakumbura,0,,,0
+1128,RBK2KDT,daily,Kandy,1128 to Kandy,0,,,0
+1130,MDA2WKA,daily,Walakumbura,1130 to Walakumbura,0,,,0
+1132,FOT2GPH,daily,Gampaha,1132 to Gampaha,0,,,0
+1135,FOT2RBK,daily,Rambukkana,1135 to Rambukkana,0,,,0
+1136,FOT2RBK,daily,Rambukkana,1136 to Rambukkana,0,,,0
+1137,NVP2HTN,daily,Hatton,1137 to Hatton,0,,,0
+1138,NVP2PEN,daily,Penrose,1138 to Penrose,0,,,0
+1141,FOT2RBK,daily,Rambukkana,1141 to Rambukkana,0,,,0
+1142,KDT2NVP,daily,Nawalapitiya,1142 to Nawalapitiya,0,,,0
+1143,FOT2RBK,daily,Rambukkana,1143 to Rambukkana,0,,,0
+1144,FOT2RBK,daily,Rambukkana,1144 to Rambukkana,0,,,0
+1147,FOT2VGD,daily,Veyangoda,1147 to Veyangoda,0,,,0
+1150,FOT2WKA,daily,Walakumbura,1150 to Walakumbura,0,,,0
+1151,APS2RBK,weekdays_not_holiday,Rambukkana,1151 to Rambukkana,0,,,0
+1152,FOT2RBK,not_sunday_nohol,Rambukkana,1152 to Rambukkana,0,,,0
+1153,KDT2NVP,daily,Nawalapitiya,1153 to Nawalapitiya,0,,,0
+1154,FOT2VGD,not_sunday,Veyangoda,1154 to Veyangoda,0,,,0
+1158,FOT2BTL,daily,Botale,1158 to Botale,0,,,0
+1159,NVP2HPT,daily,Haputale,1159 to Haputale,0,,,0
+1162,FOT2WKA,daily,Walakumbura,1162 to Walakumbura,0,,,0
+1164,ALW2RBK,weekdays_not_holiday,Rambukkana,1164 to Rambukkana,0,,,0
+1168,APS2RBK,weekdays_not_holiday,Rambukkana,1168 to Rambukkana,0,,,0
+1169,FOT2WRD,daily,Wijayarajadahana,1169 to Wijayarajadahana,0,,,0
+1170,FOT2WKA,daily,Walakumbura,1170 to Walakumbura,0,,,0
+1172,FOT2WKA,weekdays_not_holiday,Walakumbura,1172 to Walakumbura,0,,,0
+1173,FOT2WKA,daily,Walakumbura,1173 to Walakumbura,0,,,0
+1175,APS2WKA,weekdays_not_holiday,Walakumbura,1175 to Walakumbura,0,,,0
+1176,APS2WKA,weekdays_not_holiday,Walakumbura,1176 to Walakumbura,0,,,0
+1183,APS2RBK,weekdays,Rambukkana,1183 to Rambukkana,0,,,0
+1184,FOT2BTL,not_sunday_nohol,Botale,1184 to Botale,0,,,0
+1189,RBK2KDT,daily,Kandy,1189 to Kandy,0,,,0
+1191,FOT2RBK,daily,Rambukkana,1191 to Rambukkana,0,,,0
+1192,FOT2WKA,daily,Walakumbura,1192 to Walakumbura,0,,,0
+1194,FOT2RBK,daily,Rambukkana,1194 to Rambukkana,0,,,0
+1196,FOT2WRD,daily,Wijayarajadahana,1196 to Wijayarajadahana,0,,,0
+12,MWH2SAL,nso,Saliyapura,12 to Saliyapura,0,,,0
+1236,NVP2KDT,daily,Kandy,1236 to Kandy,0,,,0
+1244,NVP2KDT,daily,Kandy,1244 to Kandy,0,,,0
+1507,WKA2MDA,daily,Maradana,1507 to Maradana,0,,,0
+1511,KDT2PNL,daily,Pannaliya,1511 to Pannaliya,0,,,0
+1512,RBK2MDA,daily,Maradana,1512 to Maradana,0,,,0
+1516,VGD2MDA,daily,Maradana,1516 to Maradana,0,,,0
+1518,RBK2MDA,weekdays,Maradana,1518 to Maradana,0,,,0
+1520,HTN2KDT,daily,Kandy,1520 to Kandy,0,,,0
+1525,WRD2MDA,weekdays_not_holiday,Maradana,1525 to Maradana,0,,,0
+1526,WRD2MDA,weekends,Maradana,1526 to Maradana,0,,,0
+1527,RBK2MDA,weekdays,Maradana,1527 to Maradana,0,,,0
+1528,APS2MDA,weekdays,Maradana,1528 to Maradana,0,,,0
+1530,RGM2MDA,weekdays,Maradana,1530 to Maradana,0,,,0
+1531,TSM2MDA,not_sunday_nohol,Maradana,1531 to Maradana,0,,,0
+1534,GPH2MDA,weekdays_not_holiday,Maradana,1534 to Maradana,0,,,0
+1535,WKA2MDA,daily,Maradana,1535 to Maradana,0,,,0
+1536,RBK2MDA,daily,Maradana,1536 to Maradana,0,,,0
+1537,RBK2MDA,weekdays,Maradana,1537 to Maradana,0,,,0
+1538,APS2MDA,daily,Maradana,1538 to Maradana,0,,,0
+1541,HTN2KDT,daily,Kandy,1541 to Kandy,0,,,0
+1542,WKA2MDA,not_sunday_nohol,Maradana,1542 to Maradana,0,,,0
+1543,WKA2MDA,weekends,Maradana,1543 to Maradana,0,,,0
+1544,KDT2PNL,daily,Pannaliya,1544 to Pannaliya,0,,,0
+1549,WKA2MDA,daily,Maradana,1549 to Maradana,0,,,0
+1550,RBK2MDA,daily,Maradana,1550 to Maradana,0,,,0
+1551,RBK2MDA,daily,Maradana,1551 to Maradana,0,,,0
+1552,RBK2MDA,daily,Maradana,1552 to Maradana,0,,,0
+1553,VGD2MDA,daily,Maradana,1553 to Maradana,0,,,0
+1565,RBK2MDA,daily,Maradana,1565 to Maradana,0,,,0
+1566,ALW2MDA,weekdays_not_holiday,Maradana,1566 to Maradana,0,,,0
+1568,WKA2MDA,daily,Maradana,1568 to Maradana,0,,,0
+1569,GDA2DAG,daily,Dematagoda,1569 to Dematagoda,0,,,0
+1570,ALW2MDA,weekdays,Maradana,1570 to Maradana,0,,,0
+1574,VGD2MDA,not_sunday,Maradana,1574 to Maradana,0,,,0
+1575,BTL2MDA,weekends,Maradana,1575 to Maradana,0,,,0
+1576,RBK2MDA,not_sunday_nohol,Maradana,1576 to Maradana,0,,,0
+1578,WKA2MDA,weekdays,Maradana,1578 to Maradana,0,,,0
+1581,RBK2MDA,daily,Maradana,1581 to Maradana,0,,,0
+1583,KDT2PNL,daily,Pannaliya,1583 to Pannaliya,0,,,0
+1587,KDT2RBK,daily,Rambukkana,1587 to Rambukkana,0,,,0
+1589,ALW2MDA,not_sunday_nohol,Maradana,1589 to Maradana,0,,,0
+1591,WRD2MDA,daily,Maradana,1591 to Maradana,0,,,0
+1592,WKA2MDA,weekends,Maradana,1592 to Maradana,0,,,0
+1596,BAD2KDT,daily,Kandy,1596 to Kandy,0,,,0
+17,KNI2TCO,daily,Trincomalee,17 to Trincomalee,0,,,0
+18,CBY2KNI,daily,Kantale,18 to Kantale,0,,,0
+19,KNI2TCO,daily,Trincomalee,19 to Trincomalee,0,,,0
+20,CBY2KNI,daily,Kantale,20 to Kantale,0,,,0
+2036,MTL2MYA,daily,Mahaiyawa,2036 to Mahaiyawa,0,,,0
+2105,PDA2SUA,daily,Sarasavi Uyana,2105 to Sarasavi Uyana,0,,,0
+2185,MTL2MYA,daily,Mahaiyawa,2185 to Mahaiyawa,0,,,0
+2202,PDA2SUA,daily,Sarasavi Uyana,2202 to Sarasavi Uyana,0,,,0
+2231,KDT2MTL,daily,Matale,2231 to Matale,0,,,0
+2236,KDT2MTL,daily,Matale,2236 to Matale,0,,,0
+2243,KDT2MTL,daily,Matale,2243 to Matale,0,,,0
+23,GOA2BCO,daily,Batticaloa,23 to Batticaloa,0,,,0
+24,BCO2MIY,daily,Minneriya,24 to Minneriya,0,,,0
+25,APT2NER,not_saturday,Neriyakulam,25 to Neriyakulam,0,,,0
+2503,KDT2PDA,daily,Peradeniya Junction,2503 to Peradeniya Junction,0,,,0
+2606,KDT2PDA,daily,Peradeniya Junction,2606 to Peradeniya Junction,0,,,0
+2632,MTL2MYA,daily,Mahaiyawa,2632 to Mahaiyawa,0,,,0
+2638,MTL2MYA,daily,Mahaiyawa,2638 to Mahaiyawa,0,,,0
+27,MWH2NER,not_sunday_nohol,Neriyakulam,27 to Neriyakulam,0,,,0
+28,MWH2SAL,daily,Saliyapura,28 to Saliyapura,0,,,0
+3404,FOT2NOR,daily,Noor Nagar,3404 to Noor Nagar,0,,,0
+3406,FOT2NGB,daily,Negombo,3406 to Negombo,0,,,0
+3409,FOT2CHL,daily,Chilaw,3409 to Chilaw,0,,,0
+3411,FOT2PTM,daily,Puttalam,3411 to Puttalam,0,,,0
+3412,FOT2PVI,daily,Palavi,3412 to Palavi,0,,,0
+3417,BCO2NOR,weekdays,Noor Nagar,3417 to Noor Nagar,0,,,0
+3419,FOT2MDP,daily,Madampe,3419 to Madampe,0,,,0
+3420,FOT2CHL,daily,Chilaw,3420 to Chilaw,0,,,0
+3422,FOT2CHL,weekdays,Chilaw,3422 to Chilaw,0,,,0
+3423,FOT2NGB,daily,Negombo,3423 to Negombo,0,,,0
+3425,BCO2PTM,weekdays,Puttalam,3425 to Puttalam,0,,,0
+3426,FOT2NGB,daily,Negombo,3426 to Negombo,0,,,0
+3427,FOT2CHL,weekdays,Chilaw,3427 to Chilaw,0,,,0
+3432,FOT2CHL,daily,Chilaw,3432 to Chilaw,0,,,0
+3800,CHL2MDA,daily,Maradana,3800 to Maradana,0,,,0
+3801,CHL2MDA,daily,Maradana,3801 to Maradana,0,,,0
+3803,CHL2MDA,weekdays,Maradana,3803 to Maradana,0,,,0
+3805,CHL2MDA,not_sunday_nohol,Maradana,3805 to Maradana,0,,,0
+3808,BGY2MDA,weekdays,Maradana,3808 to Maradana,0,,,0
+3809,NGB2MDA,daily,Maradana,3809 to Maradana,0,,,0
+3810,CHL2MDA,daily,Maradana,3810 to Maradana,0,,,0
+3816,CHL2MDA,daily,Maradana,3816 to Maradana,0,,,0
+3817,NOR2MDA,weekdays,Maradana,3817 to Maradana,0,,,0
+3819,CHL2MDA,daily,Maradana,3819 to Maradana,0,,,0
+3820,JLA2MDA,weekdays,Maradana,3820 to Maradana,0,,,0
+3823,MDP2MDA,daily,Maradana,3823 to Maradana,0,,,0
+3824,CHL2MDA,daily,Maradana,3824 to Maradana,0,,,0
+3825,NGB2MDA,daily,Maradana,3825 to Maradana,0,,,0
+3828,BGY2MDA,weekdays,Maradana,3828 to Maradana,0,,,0
+4002,OMA2MDA,daily,Maradana,4002 to Maradana,0,,,0
+4003,FOT2VNA,daily,Vavuniya,4003 to Vavuniya,0,,,0
+4004,MWH2MDA,daily,Maradana,4004 to Maradana,0,,,0
+4018,MWH2MDA,daily,Maradana,4018 to Maradana,0,,,0
+4021,FOT2KIL,daily,Killinochchi,4021 to Killinochchi,0,,,0
+4022,APT2MDA,daily,Maradana,4022 to Maradana,0,,,0
+4085,FOT2VNA,daily,Vavuniya,4085 to Vavuniya,0,,,0
+4086,VNA2MDA,daily,Maradana,4086 to Maradana,0,,,0
+4089,FOT2PTN,daily,Paranthan,4089 to Paranthan,0,,,0
+4090,OMA2MDA,daily,Maradana,4090 to Maradana,0,,,0
+4093,FOT2PTN,saturday,Paranthan,4093 to Paranthan,0,,,0
+4445,MHJ2MHO,daily,Maho Junction,4445 to Maho Junction,0,,,0
+4448,GRB2MHO,daily,Maho Junction,4448 to Maho Junction,0,,,0
+4449,KRN2MHO,daily,Maho Junction,4449 to Maho Junction,0,,,0
+4451,FOT2MHO,daily,Maho Junction,4451 to Maho Junction,0,,,0
+4455,KRN2MHO,daily,Maho Junction,4455 to Maho Junction,0,,,0
+4458,MDA2APT,daily,Anuradhapura,4458 to Anuradhapura,0,,,0
+4461,MHO2APT,daily,Anuradhapura,4461 to Anuradhapura,0,,,0
+4467,KRN2MHO,weekdays,Maho Junction,4467 to Maho Junction,0,,,0
+4469,FOT2GNW,weekdays,Gannewata,4469 to Gannewata,0,,,0
+4470,APS2MHO,weekdays,Maho Junction,4470 to Maho Junction,0,,,0
+4480,GRB2MHO,daily_not_holidays,Maho Junction,4480 to Maho Junction,0,,,0
+4850,MHO2KRN,daily,Kurunegala,4850 to Kurunegala,0,,,0
+4853,MHO2KRN,daily,Kurunegala,4853 to Kurunegala,0,,,0
+4854,MHO2MDA,daily,Maradana,4854 to Maradana,0,,,0
+4856,GNW2MDA,weekdays,Maradana,4856 to Maradana,0,,,0
+4857,MHO2MDA,weekdays_not_holiday,Maradana,4857 to Maradana,0,,,0
+4858,MHO2GRB,not_saturday,Girambe,4858 to Girambe,0,,,0
+4859,KRN2MDA,not_sunday_nohol,Maradana,4859 to Maradana,0,,,0
+4865,MHO2KRN,daily,Kurunegala,4865 to Kurunegala,0,,,0
+4872,APT2MDA,daily,Maradana,4872 to Maradana,0,,,0
+4874,APT2MHO,daily,Maho Junction,4874 to Maho Junction,0,,,0
+5,APT2MWH,weekdays,Medawachchiya,5 to Medawachchiya,0,,,0
+5463,MHJ2NER,sundays,Neriyakulam,5463 to Neriyakulam,0,,,0
+5464,MHJ2NER,daily,Neriyakulam,5464 to Neriyakulam,0,,,0
+5861,MWH2SAL,daily,Saliyapura,5861 to Saliyapura,0,,,0
+5862,MWH2PHW,daily,Parasangahawewa,5862 to Parasangahawewa,0,,,0
+6011,FOT2BCO,daily,Batticaloa,6011 to Batticaloa,0,,,0
+6012,BCO2MDA,daily,Maradana,6012 to Maradana,0,,,0
+6079,FOT2VCH,daily,Valaichchenai,6079 to Valaichchenai,0,,,0
+6080,BCO2GPH,daily,Gampaha,6080 to Gampaha,0,,,0
+6083,GOA2BCO,daily,Batticaloa,6083 to Batticaloa,0,,,0
+6084,BCO2MIY,daily,Minneriya,6084 to Minneriya,0,,,0
+6479,MHO2BCO,daily,Batticaloa,6479 to Batticaloa,0,,,0
+6891,BCO2MHO,daily,Maho Junction,6891 to Maho Junction,0,,,0
+7083,FOT2TCO,daily,Trincomalee,7083 to Trincomalee,0,,,0
+7084,TCO2MDA,daily,Maradana,7084 to Maradana,0,,,0
+7490,GOA2TCO,daily,Trincomalee,7490 to Trincomalee,0,,,0
+7491,GOA2TCO,daily,Trincomalee,7491 to Trincomalee,0,,,0
+7886,CBY2APR,daily,Agbopura,7886 to Agbopura,0,,,0
+7887,CBY2APR,daily,Agbopura,7887 to Agbopura,0,,,0
+8039,MTR2RML,daily,Rathmalana,8039 to Rathmalana,0,,,0
+8040,FOT2MTR,daily,Matara,8040 to Matara,0,,,0
+8050,MDA2MTR,daily,Matara,8050 to Matara,0,,,0
+8051,MTR2MDA,daily,Maradana,8051 to Maradana,0,,,0
+8056,MDA2MTR,daily,Matara,8056 to Matara,0,,,0
+8057,MTR2MDA,not_saturday,Maradana,8057 to Maradana,0,,,0
+8058,MDA2MTR,daily,Matara,8058 to Matara,0,,,0
+8059,MTR2MDA,daily,Maradana,8059 to Maradana,0,,,0
+8060,MDA2MTR,weekdays,Matara,8060 to Matara,0,,,0
+8061,MTR2MDA,weekdays,Maradana,8061 to Maradana,0,,,0
+8062,ALT2HKD,weekdays,Hikkaduwa,8062 to Hikkaduwa,0,,,0
+8063,ABA2MDA,weekdays,Maradana,8063 to Maradana,0,,,0
+8085,MTR2PAN,daily,Panadura,8085 to Panadura,0,,,0
+8086,FOT2MTR,daily,Matara,8086 to Matara,0,,,0
+8093,MTR2PAN,saturday,Panadura,8093 to Panadura,0,,,0
+8096,MDA2MTR,weekdays,Matara,8096 to Matara,0,,,0
+8097,ANM2MDA,weekdays,Maradana,8097 to Maradana,0,,,0
+8302,ALT2KPN,daily,Kompanna Vidiya,8302 to Kompanna Vidiya,0,,,0
+8304,ALT2KPN,daily,Kompanna Vidiya,8304 to Kompanna Vidiya,0,,,0
+8309,ALT2KPN,not_sunday_nohol,Kompanna Vidiya,8309 to Kompanna Vidiya,0,,,0
+8310,PAN2KPN,daily,Kompanna Vidiya,8310 to Kompanna Vidiya,0,,,0
+8311,ABA2MDA,weekdays,Maradana,8311 to Maradana,0,,,0
+8313,PAN2KPN,not_sunday_nohol,Kompanna Vidiya,8313 to Kompanna Vidiya,0,,,0
+8316,AGL2MDA,weekdays,Maradana,8316 to Maradana,0,,,0
+8317,ALT2MDA,weekdays,Maradana,8317 to Maradana,0,,,0
+8318,HML2MDA,weekdays,Maradana,8318 to Maradana,0,,,0
+8319,GLE2RML,weekdays,Rathmalana,8319 to Rathmalana,0,,,0
+8320,AKU2MDA,weekdays,Maradana,8320 to Maradana,0,,,0
+8321,GLE2MDA,weekdays,Maradana,8321 to Maradana,0,,,0
+8324,ALT2MDA,weekdays,Maradana,8324 to Maradana,0,,,0
+8325,AGL2MDA,weekdays,Maradana,8325 to Maradana,0,,,0
+8327,GLE2MDA,not_sunday_nohol,Maradana,8327 to Maradana,0,,,0
+8328,AGL2MDA,weekdays,Maradana,8328 to Maradana,0,,,0
+8331,AGL2MDA,weekdays,Maradana,8331 to Maradana,0,,,0
+8334,MRT2KPN,weekdays,Kompanna Vidiya,8334 to Kompanna Vidiya,0,,,0
+8335,PAN2MDA,daily,Maradana,8335 to Maradana,0,,,0
+8336,PAN2MDA,daily,Maradana,8336 to Maradana,0,,,0
+8338,ANM2GLE,weekdays,Galle,8338 to Galle,0,,,0
+8339,PAN2MDA,other,Maradana,8339 to Maradana,0,,,0
+8340,ANM2GLE,weekdays,Galle,8340 to Galle,0,,,0
+8341,AGL2MDA,weekdays,Maradana,8341 to Maradana,0,,,0
+8342,ALT2MDA,weekdays,Maradana,8342 to Maradana,0,,,0
+8344,KTS2MDA,daily,Maradana,8344 to Maradana,0,,,0
+8345,MTR2GLE,daily,Galle,8345 to Galle,0,,,0
+8346,MLV2MDA,not_sunday_nohol,Maradana,8346 to Maradana,0,,,0
+8350,KTS2MDA,daily,Maradana,8350 to Maradana,0,,,0
+8351,GLE2ALT,daily,Aluthgama,8351 to Aluthgama,0,,,0
+8352,KTS2MDA,weekdays,Maradana,8352 to Maradana,0,,,0
+8355,AGL2MDA,weekdays,Maradana,8355 to Maradana,0,,,0
+8357,AKU2ALT,weekdays,Aluthgama,8357 to Aluthgama,0,,,0
+8363,ALT2MDA,weekdays,Maradana,8363 to Maradana,0,,,0
+8364,HML2KPN,weekdays,Kompanna Vidiya,8364 to Kompanna Vidiya,0,,,0
+8365,PAN2KPN,daily,Kompanna Vidiya,8365 to Kompanna Vidiya,0,,,0
+8366,AGL2KPN,weekdays,Kompanna Vidiya,8366 to Kompanna Vidiya,0,,,0
+8367,PAN2KPN,daily,Kompanna Vidiya,8367 to Kompanna Vidiya,0,,,0
+8368,ANM2GLE,weekdays,Galle,8368 to Galle,0,,,0
+8372,AGL2KPN,weekdays,Kompanna Vidiya,8372 to Kompanna Vidiya,0,,,0
+8373,ALT2KPN,weekdays,Kompanna Vidiya,8373 to Kompanna Vidiya,0,,,0
+8374,HML2KPN,weekdays,Kompanna Vidiya,8374 to Kompanna Vidiya,0,,,0
+8375,AGL2MDA,weekdays,Maradana,8375 to Maradana,0,,,0
+8378,AGL2KPN,weekdays,Kompanna Vidiya,8378 to Kompanna Vidiya,0,,,0
+8379,GLE2ALT,daily,Aluthgama,8379 to Aluthgama,0,,,0
+8391,DWL2MDA,weekdays,Maradana,8391 to Maradana,0,,,0
+8708,ALT2GLE,weekdays,Galle,8708 to Galle,0,,,0
+8710,MDA2PAN,daily,Panadura,8710 to Panadura,0,,,0
+8713,ANM2GLE,weekdays,Galle,8713 to Galle,0,,,0
+8714,GLE2MTR,not_saturday,Matara,8714 to Matara,0,,,0
+8716,MDA2KTN,daily,Kalutara North,8716 to Kalutara North,0,,,0
+8717,MDA2PAN,not_sunday_nohol,Panadura,8717 to Panadura,0,,,0
+8718,MRT2MRT,weekdays,Moratuwa,8718 to Moratuwa,0,,,0
+8719,ALT2GLE,weekdays,Galle,8719 to Galle,0,,,0
+8723,MDA2PAN,weekdays,Panadura,8723 to Panadura,0,,,0
+8724,AGL2PAN,weekdays,Panadura,8724 to Panadura,0,,,0
+8727,MDA2PAN,weekdays,Panadura,8727 to Panadura,0,,,0
+8729,AGL2PAN,weekdays,Panadura,8729 to Panadura,0,,,0
+8730,AGL2MRT,weekdays,Moratuwa,8730 to Moratuwa,0,,,0
+8732,MDA2DWL,not_sunday_nohol,Dehiwela,8732 to Dehiwela,0,,,0
+8736,MDA2KTN,daily,Kalutara North,8736 to Kalutara North,0,,,0
+8741,MDA2KTN,daily,Kalutara North,8741 to Kalutara North,0,,,0
+8742,MDA2ALT,daily,Aluthgama,8742 to Aluthgama,0,,,0
+8744,MDA2KTN,weekdays,Kalutara North,8744 to Kalutara North,0,,,0
+8748,AGL2PAN,weekdays,Panadura,8748 to Panadura,0,,,0
+8749,MDA2PAN,daily,Panadura,8749 to Panadura,0,,,0
+8751,MDA2ALT,daily,Aluthgama,8751 to Aluthgama,0,,,0
+8752,ANM2MTR,weekdays,Matara,8752 to Matara,0,,,0
+8756,MDA2PAN,daily,Panadura,8756 to Panadura,0,,,0
+8758,MDA2HML,weekdays,Hettimulla,8758 to Hettimulla,0,,,0
+8759,AGL2WDA,weekdays,Wadduwa,8759 to Wadduwa,0,,,0
+8760,ALT2GLE,weekdays,Galle,8760 to Galle,0,,,0
+8761,AGL2WDA,weekdays,Wadduwa,8761 to Wadduwa,0,,,0
+8763,AGL2PAN,weekdays,Panadura,8763 to Panadura,0,,,0
+8764,MDA2GLE,weekdays,Galle,8764 to Galle,0,,,0
+8766,ALT2MTR,weekdays,Matara,8766 to Matara,0,,,0
+8772,AGL2ALT,weekdays,Aluthgama,8772 to Aluthgama,0,,,0
+8773,MDA2ALT,daily,Aluthgama,8773 to Aluthgama,0,,,0
+8774,MDA2ALT,daily,Aluthgama,8774 to Aluthgama,0,,,0
+8775,MDA2GLE,daily,Galle,8775 to Galle,0,,,0
+8780,AGL2ALT,not_saturday,Aluthgama,8780 to Aluthgama,0,,,0
+8781,MDA2PAN,weekdays,Panadura,8781 to Panadura,0,,,0
+8782,AGL2WDA,weekdays,Wadduwa,8782 to Wadduwa,0,,,0
+8783,MDA2ALT,daily,Aluthgama,8783 to Aluthgama,0,,,0
+8788,MLV2GLE,daily,Galle,8788 to Galle,0,,,0
+8834,MNL2PTM,daily,Puttalam,8834 to Puttalam,0,,,0
+8879,NOR2PNV,daily,Periyanagavillu,8879 to Periyanagavillu,0,,,0
+9,APT2MWH,not_saturday,Medawachchiya,9 to Medawachchiya,0,,,0
+9254,FOT2AVS,daily,Avissawella,9254 to Avissawella,0,,,0
+9260,FOT2PDK,not_sunday_nohol,Padukka,9260 to Padukka,0,,,0
+9262,FOT2PWP,not_saturday,Puwakpitiya,9262 to Puwakpitiya,0,,,0
+9263,PNW2AVS,not_saturday,Avissawella,9263 to Avissawella,0,,,0
+9264,FOT2AVS,daily,Avissawella,9264 to Avissawella,0,,,0
+9269,FOT2KSG,daily,Kosgama,9269 to Kosgama,0,,,0
+9271,FOT2AVS,daily,Avissawella,9271 to Avissawella,0,,,0
+9646,AVS2MDA,daily,Maradana,9646 to Maradana,0,,,0
+9648,KSG2MDA,daily,Maradana,9648 to Maradana,0,,,0
+9649,AVS2MDA,not_sunday_nohol,Maradana,9649 to Maradana,0,,,0
+9650,PDK2MDA,not_sunday_nohol,Maradana,9650 to Maradana,0,,,0
+9651,AVS2MDA,daily,Maradana,9651 to Maradana,0,,,0
+9652,PNW2MDA,not_sunday_nohol,Maradana,9652 to Maradana,0,,,0
+9657,AVS2MDA,daily,Maradana,9657 to Maradana,0,,,0
+9661,KPE2MDA,weekdays,Maradana,9661 to Maradana,0,,,0
